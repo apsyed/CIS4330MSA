@@ -2,12 +2,17 @@
 - The advantages of virtual machines are that they allow multiple OS environments coexist on the same machine.
 - Virtual machines are easier to maintain and recover in case something goes wrong.
 - Virtual machines can help reduce stranded capacity.
-- Virtual machines are very efficient depending on the task it needed for. Its very easy to create a VM for a specific task and remove the VM once that task is completed.
+- Virtual machines are very efficient depending on the task it needed for. 
+Its very easy to create a VM for a specific task and remove the VM once that task is completed.
 2. State what the advantages of containers are?
 - Containers does not allocate many resources
 - Applications running in containers can be easily sent to multiple different operating system and hardware platforms.
 - Containers support agile and DevOps to accelerate development, test, and production cycles.
 3. State when you might select physical machines over virtual machines?
-- Since virtual machines have far many advantages over physical machines such efficiency, lifespan and costs, one place where physical machines is performance. Although the gap in performance gets smaller as technology advances, physical machines are shown to have improved performance.
+- Since virtual machines have far many advantages over physical machines such 
+efficiency, lifespan and costs, one place where physical machines is performance. 
+Although the gap in performance gets smaller as technology advances, physical machines are shown to have improved performance.
 4. How cloud would aid microservices?
-- The cloud can be very beneficial to microservices because it allows microservices to be accessible by anyone over the internet. That way it’s easier and more efficient to collaborate. The cloud can store data over the internet that anyone can access with the right credentials instead of on a physical hardware.
+- The cloud can be very beneficial to microservices because it allows microservices to 
+be accessible by anyone over the internet. That way it’s easier and more efficient to collaborate. 
+The cloud can store data over the internet that anyone can access with the right credentials instead of on a physical hardware.
